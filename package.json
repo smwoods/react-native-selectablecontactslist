@@ -1,0 +1,29 @@
+{
+  "name": "react-native-selectablecontactslist",
+  "version": "0.1.0",
+  "description": "A React Native component to get and select multiple contacts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smwoods/react-native-selectablecontactslist.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android"
+  ],
+  "author": "Scott Woods",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smwoods/react-native-selectablecontactslist/issues"
+  },
+  "homepage": "https://github.com/smwoods/react-native-selectablecontactslist#readme",
+  "dependencies": {
+    "react-native-alphabetlistview": "^0.2.0",
+    "react-native-contacts": "^0.5.0"
+  }
+}
